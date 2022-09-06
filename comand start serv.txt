@@ -3,3 +3,5 @@ npx cypress open
 ou 
 
 npm run test
+
+npx cypress open
